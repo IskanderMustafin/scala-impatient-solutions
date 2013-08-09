@@ -1,0 +1,1 @@
+Solutions for exercises from Scala for the impatient book (http://www.amazon.com/Scala-Impatient-Cay-S-Horstmann/dp/0321774094?tag=s601000020-20)
